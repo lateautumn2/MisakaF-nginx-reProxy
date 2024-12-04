@@ -2,7 +2,7 @@
 
 1、Misakaf.conf
 这是关于MisakaF Emby 公费服/机场服的反代基础配置
-补充：pilipili的结构与misakaf一致
+（补充：pilipili的结构与misakaf一致）
 
 ```
 # debian
